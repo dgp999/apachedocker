@@ -1,4 +1,4 @@
 apachedocker
 ============
 
-Dockerfile for apache server
+Dockerfile for apache server, automated with docker hub.
